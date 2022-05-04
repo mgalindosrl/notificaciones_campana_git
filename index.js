@@ -16,8 +16,8 @@ let client = platformClient.ApiClient.instance;
 let notificationsApi = new platformClient.NotificationsApi();
 let outboundApi = new platformClient.OutboundApi();
 
-var clientId = "18d6511d-58ba-4379-95f4-636375146a3a";
-var clientSecret = "9OaeVNTQrtk897FghNDpbvOj7OJUUoIGILBWnR50PoE";
+var clientId = "-------------------";
+var clientSecret = "---------------------";
 
 ////Metodo para conectarnos a las notificaciones
 var Notifications = () => {
